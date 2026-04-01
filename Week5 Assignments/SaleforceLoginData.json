@@ -1,0 +1,12 @@
+[
+  {
+    "TcaseId": "TC001",
+    "Username": "dilipkumar.rajendran@testleaf.com",
+    "Password": "TestLeaf@2025"
+  },
+  { 
+    "TcaseId": "TC002",
+    "Username": "ravindran.ramdas@testleaf.com",
+    "Password": "Ravisalesplay#1234"
+  } 
+]

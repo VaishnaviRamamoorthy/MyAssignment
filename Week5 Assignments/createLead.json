@@ -1,0 +1,15 @@
+[{
+  "TcsId" :"TC001",
+  "Username" : "Demosalesmanager",
+  "Password" : "crmsfa",
+  "FirstName": "Vaishnavi",
+  "LastName" : "Ramamoorthy",
+  "CompanyName" : "TestLeaf",
+  "Source" : "LEAD_DIRECTMAIL",
+  "MarketingCampaign":"DEMO_MKTG_CAMP",
+  "Industry" : "IND_GEN_SERVICES",
+  "Currency" : "INR",
+  "Country" : "IND",
+  "State" : "IN-TN"
+
+}]
